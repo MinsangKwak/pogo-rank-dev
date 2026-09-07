@@ -1,0 +1,3 @@
+# POGO SEARCH dev 미리보기 — 색인 금지
+User-agent: *
+Disallow: /
