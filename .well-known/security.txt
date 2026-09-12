@@ -1,0 +1,4 @@
+Contact: mailto:kwakms821@kakao.com
+Expires: 2027-09-12T00:00:00.000Z
+Preferred-Languages: ko, en
+Policy: https://github.com/minsangkwak/pogo-rank/blob/main/SECURITY.md
