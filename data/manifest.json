@@ -1,0 +1,53 @@
+{
+ "built": "2026-09-19T18:11:10.905Z",
+ "files": {
+  "dex": {
+   "hash": "9a87808227635efa",
+   "bytes": 279747
+  },
+  "max": {
+   "hash": "d06d4b9094c22129",
+   "bytes": 288933
+  },
+  "pve": {
+   "hash": "9f3165ec7db5c8ed",
+   "bytes": 384715
+  },
+  "pvp": {
+   "hash": "9fb3fe4cf8684ca2",
+   "bytes": 326195
+  },
+  "gameday": {
+   "hash": "66a840b9f056897a",
+   "bytes": 47680
+  },
+  "fav-events": {
+   "hash": "df8e677e6a6ee405",
+   "bytes": 4600
+  },
+  "updates": {
+   "hash": "c5476a6dce50c7ac",
+   "bytes": 32111
+  },
+  "usage": {
+   "hash": "104f0a61ae290d4b",
+   "bytes": 50465
+  },
+  "meta": {
+   "hash": "7e259edc18fba93f",
+   "bytes": 565
+  },
+  "release": {
+   "hash": "9bed19672e78961a",
+   "bytes": 152187
+  },
+  "i18n": {
+   "hash": "b4ed2e44ae217042",
+   "bytes": 80363
+  },
+  "schedule": {
+   "hash": "425d63e90a5776d7",
+   "bytes": 3845
+  }
+ }
+}
